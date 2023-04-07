@@ -200,11 +200,6 @@ class Amazon extends StatelessWidget {
 
                 }
             ),
-
-
-
-
-
           ),
 
           SizedBox(height: 10,),

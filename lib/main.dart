@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:testone/Amazon.dart';
+import 'package:testone/Calc.dart';
 
 
 
@@ -27,7 +28,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),debugShowCheckedModeBanner: false,
-      home: const Amazon(),
+      home: const Calculator(),
     );
   }
 }
